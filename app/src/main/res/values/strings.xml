@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WizarPOS</string>
+    <string name="action_package_name">ke.co.great.wizarpos.action.</string>
+    <string name="jniinterface_package_name">ke.co.great.wizarpos.jniinterface.</string>
+    <string name="device_not_open">No open</string>
+    <string name="operation_with_error">Error</string>
+    <string name="operation_successful">Successful</string>
+    <string name="operation_failed">Failed</string>
+    <string name="device_opened">Openned</string>
+    <string name="print_QR_code">Print Qr Code</string>
+    <string name="version">Version: %s</string>
+</resources>
